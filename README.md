@@ -37,7 +37,6 @@
   | | main.js //Just an empty JS file that is linked in HTML file.
   | index.html //Compiled index.jade
   | index.jade //Jade file. The same index.html file but just a Jade language.
-  
-  
-###Enjoy###
 ```
+
+###Enjoy###
